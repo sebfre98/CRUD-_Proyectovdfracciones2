@@ -14,7 +14,7 @@ import valueobject.EstudianteVO;
 
 /**
  *
- * @author Sebastian
+ * @author Sebastian Aguirre L
  */
 public class EstudianteDAO {
      //Conectar con la base de datos creada en PostgreSQL
