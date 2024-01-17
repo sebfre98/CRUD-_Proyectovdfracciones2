@@ -12,7 +12,7 @@ import valueobject.PunuVO;
 /**
  *el dataaccessobject por orden es mejor crearlo despues del VO y la conexionBD
 toma los VO y la conexiona base de datos 
- * @author Sebastian, Diego, Jorge
+ * @author Sebastian Aguirre L
  */
 public class PunuDAO {
      //Conectar con la base de datos creada en PostgreSQL
