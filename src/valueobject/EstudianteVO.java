@@ -5,7 +5,7 @@ package valueobject;
 
 /**
  *Objeto a evaluar por orden la clase VO; es la primer clase en crearse para evitar enredos o inconvenientes.
- * @author Sebastian, Diego, Jorge
+ * @author Sebastian Aguirre L
  */
 public class EstudianteVO {
     
