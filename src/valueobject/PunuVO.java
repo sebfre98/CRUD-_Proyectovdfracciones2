@@ -3,7 +3,7 @@ package valueobject;
 
 /**
  *Objeto a evaluar por orden la clase VO; es la primer clase en crearse para evitar enredos o inconvenientes.
- * @author Sebastian, Jorge, Diego
+ * @author Sebastian Aguirre L
  */
 public class PunuVO {
     //llave principal 
