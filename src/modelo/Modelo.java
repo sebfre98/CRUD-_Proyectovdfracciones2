@@ -18,7 +18,7 @@ import valueobject.EstudianteVO;
 import valueobject.PunuVO;
 /**
  *
- * @author Sebastian, Diego, Jorge
+ * @author Sebastian Aguirre L
  */
 public class Modelo {
     //modelo usuario
