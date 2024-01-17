@@ -15,7 +15,7 @@ import valueobject.NivlVO;
 
 /**
  *
- * @author Sebastian, Jorge, Diego
+ * @author Sebastian Aguirre L
  */
 public class NivlDAO {
     //Conectar con la base de datos creada en PostgreSQL
